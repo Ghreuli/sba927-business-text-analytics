@@ -1,0 +1,49 @@
+SBA 927 Business Text Analytics Summary
+=============================================
+
+Number of text records: 12
+
+Top 20 Lemmatized Terms:
+- robot: 8
+- detective: 3
+- human: 3
+- potential: 3
+- sonny: 3
+- ai: 3
+- spooner: 2
+- world: 2
+- three: 2
+- law: 2
+- humanity: 2
+- role: 2
+- others: 2
+- viki: 2
+- logic: 2
+- viewer: 2
+- appreciate: 2
+- advanced: 2
+- dr: 2
+- calvin: 2
+
+Top Named Entities from spaCy:
+- ('Sonny', 'PERSON'): 3
+- ('three', 'CARDINAL'): 2
+- ('V.I.K.I.', 'GPE'): 2
+- ('AI', 'GPE'): 2
+- ('Robot', 'PERSON'): 1
+- ('Detective Del Spooner', 'PERSON'): 1
+- ('Virtual Interactive Kinetic Intelligence', 'ORG'): 1
+- ('Calvin', 'PERSON'): 1
+- ('Detective', 'GPE'): 1
+- ('Susan Calvin', 'PERSON'): 1
+
+VADER Sentiment Counts:
+vader_sentiment
+positive    7
+neutral     3
+negative    2
+
+Transformer Sentiment Counts:
+transformer_sentiment
+positive    9
+negative    3
